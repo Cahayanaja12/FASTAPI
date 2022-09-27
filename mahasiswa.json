@@ -1,0 +1,14 @@
+{
+    "mahasiswa": [
+        {
+            "id": 1,
+            "nim": 18219059,
+            "name": "Cahaya Naja Suharningtyas"
+        },
+        {
+            "id": 2,
+            "nim": 18219023,
+            "name": "tarbiyatun nafiah"
+        }
+    ]
+}
